@@ -11,5 +11,10 @@ b=40
 # short hand if and if--else
 # if a < b: print("b is greater than a");
 
-print("a is greater then b") if a>b else print("b is greater than a");
+# print("a is greater then b") if a>b else print("b is greater than a");
+
+
+# short hand multiple condition in same line
+
+print("a is greater than b") if a > b else print("a and b are equal") if a==b else print("b are greater than a");
 
