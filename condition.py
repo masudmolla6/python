@@ -1,6 +1,7 @@
 # condition in python
 a=20
 b=40
+c=23
 # if a>b:
 #     print("a is greater than b")
 # elif a==b:
@@ -16,5 +17,8 @@ b=40
 
 # short hand multiple condition in same line
 
-print("a is greater than b") if a > b else print("a and b are equal") if a==b else print("b are greater than a");
+# print("a is greater than b") if a > b else print("a and b are equal") if a==b else print("b are greater than a");
 
+
+if a < b and b > c:
+    print("both condition are ture.")
