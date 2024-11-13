@@ -7,3 +7,9 @@ b=40
 #     print("a is less than b")
 # else:
 #     print("a is less than b")
+
+# short hand if and if--else
+# if a < b: print("b is greater than a");
+
+print("a is greater then b") if a>b else print("b is greater than a");
+
