@@ -15,8 +15,3 @@
 # 3-way(extend method)
 # list2.extend(list1)
 # print(list2)
-
-# test
-fruits=["apple", "Orange", "mango"]
-fruits[0]="lemon"
-print(fruits);
