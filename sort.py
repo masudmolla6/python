@@ -24,5 +24,9 @@
 # case insensitive
 myFriends=["rahul", "asif", "Kadir", "ismail"]
 # myFriends.sort()
-myFriends.sort(key=str.lower)
+# myFriends.sort(key=str.lower)
+# print(myFriends)
+
+# Reverse Way
+myFriends.reverse()
 print(myFriends)
