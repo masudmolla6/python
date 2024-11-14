@@ -9,8 +9,10 @@ numbers =[1,2,3,4,5,6,7,8,9]
 # for x in range(len(thislist)):
 #     print(x)
 
-thislist = ["apple", "banana", "cherry"]
-x=0
-while x < len(thislist):
-    print(thislist[x])
-    x=x+1
+# thislist = ["apple", "banana", "cherry"]
+#
+# [print(x) for x in thislist]
+
+
+number3=[2,3,4,5,6]
+[print(number) for number in number3]

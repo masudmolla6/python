@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e063828f-57f1-48b2-92a2-8c856a197559" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forLoop.py" beforeDir="false" afterPath="$PROJECT_DIR$/forLoop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loopList.py" beforeDir="false" afterPath="$PROJECT_DIR$/loopList.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +26,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Comprehension.executor": "Run",
     "Python.NumericType.executor": "Run",
     "Python.arithmeticOperator.executor": "Run",
     "Python.assignmentOperator.executor": "Run",
@@ -42,6 +43,7 @@
     "Python.main.executor": "Run",
     "Python.nodeType.executor": "Run",
     "Python.sequenceType.executor": "Run",
+    "Python.sort.executor": "Run",
     "Python.stringFormating.executor": "Run",
     "Python.stringType.executor": "Run",
     "Python.swap.executor": "Run",
