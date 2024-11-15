@@ -44,6 +44,7 @@
     "Python.loopList.executor": "Run",
     "Python.main.executor": "Run",
     "Python.nodeType.executor": "Run",
+    "Python.removeSetItem.executor": "Run",
     "Python.sequenceType.executor": "Run",
     "Python.set.executor": "Run",
     "Python.sort.executor": "Run",
