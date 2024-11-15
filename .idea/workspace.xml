@@ -44,6 +44,7 @@
     "Python.main.executor": "Run",
     "Python.nodeType.executor": "Run",
     "Python.sequenceType.executor": "Run",
+    "Python.set.executor": "Run",
     "Python.sort.executor": "Run",
     "Python.stringFormating.executor": "Run",
     "Python.stringType.executor": "Run",
