@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e063828f-57f1-48b2-92a2-8c856a197559" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/joinMethod.py" beforeDir="false" afterPath="$PROJECT_DIR$/joinMethod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuple.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,7 @@
     "Python.swap.executor": "Run",
     "Python.tuple.executor": "Run",
     "Python.typeCasting.executor": "Run",
+    "Python.unpackTuple.executor": "Run",
     "Python.userInput.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
