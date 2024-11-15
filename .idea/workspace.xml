@@ -27,6 +27,7 @@
   "keyToString": {
     "Python.Comprehension.executor": "Run",
     "Python.NumericType.executor": "Run",
+    "Python.accessDictionary.executor": "Run",
     "Python.accessSet.executor": "Run",
     "Python.arithmeticOperator.executor": "Run",
     "Python.assignmentOperator.executor": "Run",
