@@ -36,6 +36,7 @@
     "Python.condition.executor": "Run",
     "Python.copyList.executor": "Run",
     "Python.dataType.executor": "Run",
+    "Python.dictionaries.executor": "Run",
     "Python.forLoop.executor": "Run",
     "Python.joinMethod.executor": "Run",
     "Python.list.executor": "Run",
