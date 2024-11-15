@@ -47,6 +47,7 @@
     "Python.removeSetItem.executor": "Run",
     "Python.sequenceType.executor": "Run",
     "Python.set.executor": "Run",
+    "Python.setJoin.executor": "Run",
     "Python.sort.executor": "Run",
     "Python.stringFormating.executor": "Run",
     "Python.stringType.executor": "Run",
