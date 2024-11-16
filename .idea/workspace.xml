@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e063828f-57f1-48b2-92a2-8c856a197559" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stringFormating.py" beforeDir="false" afterPath="$PROJECT_DIR$/stringFormating.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +53,7 @@
     "Python.loopList.executor": "Run",
     "Python.main.executor": "Run",
     "Python.nodeType.executor": "Run",
+    "Python.obiect.executor": "Run",
     "Python.removeSetItem.executor": "Run",
     "Python.sequenceType.executor": "Run",
     "Python.set.executor": "Run",
