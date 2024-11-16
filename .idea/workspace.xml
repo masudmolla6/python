@@ -42,6 +42,7 @@
     "Python.dataType.executor": "Run",
     "Python.dictionaries.executor": "Run",
     "Python.forLoop.executor": "Run",
+    "Python.function.executor": "Run",
     "Python.joinMethod.executor": "Run",
     "Python.list.executor": "Run",
     "Python.logicalOperator.executor": "Run",
